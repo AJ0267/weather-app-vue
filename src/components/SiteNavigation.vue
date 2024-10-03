@@ -31,7 +31,7 @@
         <div class="text-black">
           <h1 class="text-2xl mb-1">About:</h1>
           <p class="mb-4">
-            Qlimate allows you to track the current locations of your choosing.
+            Qlimate allows you to track the current weather of locations of your choosing.
           </p>
           <h2 class="text-2xl">How it works:</h2>
           <ol class="list-decimal list-inside mb-4">
