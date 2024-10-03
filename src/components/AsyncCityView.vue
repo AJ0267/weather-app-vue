@@ -54,7 +54,7 @@
       @click="removeLocation"
     >
       <i class="fa-solid fa-trash hover:text-red-500"></i>
-      <p>Remove City</p>
+      <p>Remove Location</p>
     </div>
   </div>
 </template>
